@@ -1,3 +1,15 @@
+
+@import url("styles/header.css");
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
+
+.cabeçalho {
+    background-color: var(--branco);
+}
+
 :root{
     --cor-de-fundo: #f8f8fa;
 }
